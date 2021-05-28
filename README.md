@@ -1,2 +1,2 @@
-# CUDA-Filter
-A library for applying filters to images via CUDA
+# Prolog Knights Path
+Knights path implemented in prolog SWI and GPLC
